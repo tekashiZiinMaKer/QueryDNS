@@ -22,7 +22,7 @@ while restart == 'S':
     time.sleep(0.5)
     print('Checking updates...')
     os.system('clear')
-    os.system("figlet  DNS and IP")
+    os.system("figlet  Consulta DNS")
     time.sleep(2)
     print()
 
