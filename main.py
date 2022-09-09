@@ -1,6 +1,5 @@
 import time
 import socket
-from requests import get
 import smtplib
 import socket
 import os
